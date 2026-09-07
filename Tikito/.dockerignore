@@ -1,0 +1,31 @@
+# Environment / secrets
+.env
+
+# Build output
+target/
+
+# IDE files
+.metadata/
+.settings/
+.classpath
+.project
+.factorypath
+
+# Git
+.git/
+.gitignore
+.gitattributes
+
+# Eclipse / IntelliJ
+.idea/
+*.iml
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Local uploads
+Uploads/
